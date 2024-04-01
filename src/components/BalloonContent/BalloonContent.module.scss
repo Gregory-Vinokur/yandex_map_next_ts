@@ -1,0 +1,26 @@
+.entityCard {
+  position: relative;
+  width: 100%;
+  min-width: 27.6rem;
+  max-width: 37rem;
+  overflow: hidden;
+  border-radius: 2.4rem;
+}
+
+.balloonText {
+  padding-top: 2rem;
+}
+
+.description {
+  padding: 1.6rem 2.4rem;
+  background-color: #f3f3f4;
+}
+
+.entityCard .closeBtn {
+  position: absolute;
+  top: 1.6rem;
+  right: 2.4rem;
+  min-width: 2.4rem;
+  min-height: 2.4rem;
+  padding: 0.6rem;
+}

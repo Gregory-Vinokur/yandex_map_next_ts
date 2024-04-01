@@ -1,0 +1,42 @@
+.sectionContainer {
+  width: 120rem;
+  margin-top: 10rem;
+}
+
+.map {
+  width: 100%;
+  height: 77.1rem;
+}
+
+.balloonContainer {
+  width: 37rem;
+  height: 26.4rem;
+}
+
+.placemarkContainer {
+  width: 6.7rem;
+  height: 6.1rem;
+}
+
+.sectionContainer {
+  :global(.ymaps-2-1-79-balloon) {
+    box-shadow: none;
+  }
+
+  :global(.ymaps-2-1-79-balloon__content) {
+    width: 37rem;
+    height: 26.4rem;
+    padding: 0;
+    margin: 0;
+    background: transparent;
+  }
+
+  :global(.ymaps-2-1-79-balloon__layout) {
+    background: transparent;
+    border: none;
+  }
+
+  :global(.ymaps-2-1-79-balloon__tail) {
+    display: none;
+  }
+}

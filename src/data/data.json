@@ -1,0 +1,62 @@
+[
+  {
+    "id": 45654,
+    "description": "Первое описание...",
+    "description_text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum delectus odit aperiam! Inventore ratione voluptates ipsum quo, nisi dolores qui pariatur repellendus mollitia veritatis,excepturi fuga, voluptatibus atque maiores. Dolorem.",
+    "hint": "Метка 1",
+    "location": {
+      "latitude": 54.0024,
+      "longitude": 37.5164
+    }
+  },
+  {
+    "id": 46534,
+    "description": "Второе описание...",
+    "description_text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum delectus odit aperiam! Inventore ratione voluptates ipsum quo, nisi dolores qui pariatur repellendus mollitia veritatis,excepturi fuga, voluptatibus atque maiores. Dolorem.",
+    "hint": "Метка 2",
+    "location": {
+      "latitude": 59.9343,
+      "longitude": 30.3351
+    }
+  },
+  {
+    "id": 56534,
+    "description": "Третье описание...",
+    "description_text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum delectus odit aperiam! Inventore ratione voluptates ipsum quo, nisi dolores qui pariatur repellendus mollitia veritatis,excepturi fuga, voluptatibus atque maiores. Dolorem.",
+    "hint": "Метка 3",
+    "location": {
+      "latitude": 55.0084,
+      "longitude": 82.9357
+    }
+  },
+  {
+    "id": 78965,
+    "description": "Четвёртое описание...",
+    "description_text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum delectus odit aperiam! Inventore ratione voluptates ipsum quo, nisi dolores qui pariatur repellendus mollitia veritatis,excepturi fuga, voluptatibus atque maiores. Dolorem.",
+    "hint": "Метка 4",
+    "location": {
+      "latitude": 55.0024,
+      "longitude": 38.5164
+    }
+  },
+  {
+    "id": 98765,
+    "description": "Пятое описание...",
+    "description_text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum delectus odit aperiam! Inventore ratione voluptates ipsum quo, nisi dolores qui pariatur repellendus mollitia veritatis,excepturi fuga, voluptatibus atque maiores. Dolorem.",
+    "hint": "Метка 5",
+    "location": {
+      "latitude": 58.9343,
+      "longitude": 29.3351
+    }
+  },
+  {
+    "id": 65432,
+    "description": "Шестое описание...",
+    "description_text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum delectus odit aperiam! Inventore ratione voluptates ipsum quo, nisi dolores qui pariatur repellendus mollitia veritatis,excepturi fuga, voluptatibus atque maiores. Dolorem.",
+    "hint": "Метка 6",
+    "location": {
+      "latitude": 56.0084,
+      "longitude": 83.9357
+    }
+  }
+]

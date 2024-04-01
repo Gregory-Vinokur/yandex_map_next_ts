@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%; /* 1rem = 10px, 10px/16px = 62.5% */
+}
+
+:root {
+  --background-color: #ffffff;
+  --color-primary: #fff;
+  --color-secondary: #f86600;
+  --cart-color: #232526;
+}
+
+body {
+  background-color: var(--background-color);
+  font-family: var(--font-primary);
+  color: var(--color-primary);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
