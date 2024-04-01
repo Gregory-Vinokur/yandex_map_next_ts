@@ -6,7 +6,7 @@
 
 ### 1. Склонировать этот репозиторий:
 
-`$ git clone https://github.com/Gregory-Vinokur/yandex_map_next_ts.git`
+`$ git clone https://github.com/Gregory-Vinokur/yandex_maps_next_ts.git`
 
 ### 2. Установить зависимости:
 
